@@ -39,7 +39,7 @@
         },
         "codespaces": {
             "openFiles": [
-                "README.md"
+                "server/java/README.md"
             ]
         }
     },

@@ -40,7 +40,7 @@
         },
         "codespaces": {
             "openFiles": [
-                "README.md"
+                "server/python/README.md"
             ]
         }
     },

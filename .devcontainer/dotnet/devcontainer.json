@@ -44,7 +44,7 @@
         },
         "codespaces": {
             "openFiles": [
-                "README.md"
+                "server/dotnet/README.md"
             ]
         }
     },
